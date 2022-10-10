@@ -20,7 +20,10 @@ makefile을 통해 ft_printf함수가 포함된 라이브러리 생성
 - %X : 대문자를 사용하여 정수를 16진수로 출력
 - %% : 퍼센트 기호 (%) 를 출력
 
-**files**
+<details>
+<summary>files</summary>
+<div markdown="1">       
+
 - Libft/*
 - srcs/
 	- ft_printf.c
@@ -37,6 +40,9 @@ makefile을 통해 ft_printf함수가 포함된 라이브러리 생성
 - includes/
 	- ft_printf.h
 - Makefile
+
+</div>
+</details>
 
 ## Bonus part
 
@@ -55,7 +61,10 @@ makefile을 통해 ft_printf함수가 포함된 라이브러리 생성
 - \# : 진법에 맞게 숫자 앞에 0, 0x, 0X룰 출력
 - 0 : 출력하는 폭의 남는 공간을 0으로 채워넣는다.
 
-**files**
+<details>
+<summary>files</summary>
+<div markdown="1">       
+
 - Libft/*
 - srcs_bonus/
 	- ft_printf_bonus.c
@@ -72,6 +81,9 @@ makefile을 통해 ft_printf함수가 포함된 라이브러리 생성
 - includes/
 	- ft_printf_bonus.h
 - Makefile
+
+</div>
+</details>
 
 ## Example of execution
 
